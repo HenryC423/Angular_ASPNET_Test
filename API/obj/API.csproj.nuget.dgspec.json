@@ -1,26 +1,27 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\Henry\\DatingApp\\API\\API.csproj": {}
+    "C:\\Users\\henry\\Documents\\ASPNET_Angular\\API\\API.csproj": {}
   },
   "projects": {
-    "c:\\Users\\Henry\\DatingApp\\API\\API.csproj": {
+    "C:\\Users\\henry\\Documents\\ASPNET_Angular\\API\\API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\Henry\\DatingApp\\API\\API.csproj",
+        "projectUniqueName": "C:\\Users\\henry\\Documents\\ASPNET_Angular\\API\\API.csproj",
         "projectName": "API",
-        "projectPath": "c:\\Users\\Henry\\DatingApp\\API\\API.csproj",
-        "packagesPath": "C:\\Users\\Henry\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\Henry\\DatingApp\\API\\obj\\",
+        "projectPath": "C:\\Users\\henry\\Documents\\ASPNET_Angular\\API\\API.csproj",
+        "packagesPath": "C:\\Users\\henry\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\henry\\Documents\\ASPNET_Angular\\API\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Henry\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\henry\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
