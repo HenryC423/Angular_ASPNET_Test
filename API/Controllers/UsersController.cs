@@ -5,16 +5,13 @@ using Microsoft.EntityFrameworkCore;
 
 namespace API.Controllers
 {
-    [ApiController]
-    [Route("api/[controller]")] // /api/Users <--- api endpoint
-    public class UsersController
+    public class UsersController : BaseApiController
     {
         private readonly DataContext _context;
 
         public UsersController(DataContext context)
         {
             _context = context;
-
         }
 
         [HttpGet]
